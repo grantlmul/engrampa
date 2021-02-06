@@ -30,6 +30,7 @@
     * Java Enterprise archive (.ear)
     * Java Web Archive (.war)
     * LHA Archive (.lzh, .lha)
+    * Valve Pak (.vpk)
     * WinRAR Compressed Archive (.rar)
     * RAR Archived Comic Book (.cbr)
     * RPM Linux Package (.rpm) [Read-only mode]
